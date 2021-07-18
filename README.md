@@ -3,7 +3,7 @@
 
 ## Installation Guide  
 
-1. First download and install the [Counter-Strike 1.6 Weapons Project](https://github.com/KernCore91/-SC-Counter-Strike-1.6-Weapons-Project#download-links)  
+1. First download and install the [Counter-Strike 1.6 Weapons Project](https://github.com/KernCore91/-SC-Counter-Strike-1.6-Weapons-Project#installation-guide)(I and II only)  
 2. Open the `default_plugins.txt` file located in `Steam\steamapps\common\Sven Co-op\svencoop` and add the following lines:
 ```  
 	"plugin"  
